@@ -1,0 +1,8 @@
+- [x] Update Native Android Splash Screen
+    - [x] Set background color to DUET Blue in `launch_background.xml`
+    - [x] Center the app icon in the native splash
+- [x] Fix Dark Mode "Black Flash"
+    - [x] Update `values-night/styles.xml` to force consistent branding
+- [x] Align Flutter `SplashScreen` UI
+    - [x] Ensure perfect color matching and smooth transition
+- [ ] Verify fix

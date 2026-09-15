@@ -1,0 +1,8 @@
+- [ ] Add `shared_preferences` dependency
+- [ ] Implement `saveSession` & `loadSession` in `AuthService`
+- [ ] Update `SplashScreen` for Auto-Login logic
+- [ ] Audit all API Endpoints based on Postman images:
+    - [ ] Verify Student `Active Trips` path
+    - [ ] Verify Driver `Start Trip` & `Share Location` path
+    - [ ] Verify Admin `Dashboard` path
+- [ ] Verify App Persistence across restarts
