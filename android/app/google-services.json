@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "214438274387",
+    "project_id": "duet-smart-bus-tracker-15b69",
+    "storage_bucket": "duet-smart-bus-tracker-15b69.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214438274387:android:87e6e013482ffed4072da6",
+        "android_client_info": {
+          "package_name": "com.example.duet_smart_bus_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxAuPconGZMZTs2anK6T3wrBFvoxWPEeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
